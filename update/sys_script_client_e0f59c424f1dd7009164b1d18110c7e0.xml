@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>active</field>
+        <global>true</global>
+        <messages/>
+        <name>EmpTrnFormLoad</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+     if(g_form.isNewRecord()){
+        g_form.setValue('sys_created_by',g_user.getFullName());
+    }
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-07 08:28:52</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e0f59c424f1dd7009164b1d18110c7e0</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>EmpTrnFormLoad</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TrackNow2018" source="x_snc_tracknow2018">6a6c57bd4f59d7009164b1d18110c7a2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TrackNow2018">6a6c57bd4f59d7009164b1d18110c7a2</sys_scope>
+        <sys_update_name>sys_script_client_e0f59c424f1dd7009164b1d18110c7e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-07 08:30:18</sys_updated_on>
+        <table>x_snc_tracknow2018_employeetrainings</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

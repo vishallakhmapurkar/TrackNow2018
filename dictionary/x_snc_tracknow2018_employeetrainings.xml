@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element extends="task" label="EmployeeTrainings" max_length="40" name="x_snc_tracknow2018_employeetrainings" type="collection">
-        <element label="CompletedAll" max_length="40" name="u_complatedall" type="boolean"/>
+        <element default="true" label="MarkCompleted" max_length="40" name="u_complatedall" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" choice="1" default="pipeline" label="EmployeeStatus" mandatory="true" max_length="40" name="u_empstatus" type="string">
             <choice>
                 <element label="PipeLine" sequence="0" value="pipeline"/>

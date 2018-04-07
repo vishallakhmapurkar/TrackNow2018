@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2018-04-07 09:27:17">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-07 09:24:29</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d303e84a4f1dd7009164b1d18110c7d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Charts</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TrackNow2018" source="x_snc_tracknow2018">6a6c57bd4f59d7009164b1d18110c7a2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TrackNow2018">6a6c57bd4f59d7009164b1d18110c7a2</sys_scope>
+        <sys_update_name>sys_portal_page_d303e84a4f1dd7009164b1d18110c7d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-07 09:24:29</sys_updated_on>
+        <title>PA Charts</title>
+        <user/>
+        <view>pa_charts</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>0</offset>
+                <page display_value="PA Charts">d303e84a4f1dd7009164b1d18110c7d8</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-04-07 09:25:56</sys_created_on>
+                <sys_id>7c63ec4a4f1dd7009164b1d18110c7d0</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-04-07 09:25:56</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-04-07 02:25:56">7c63ec4a4f1dd7009164b1d18110c7d0</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-07 09:25:56</sys_created_on>
+                        <sys_id>7063ec4a4f1dd7009164b1d18110c7d2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-07 09:25:56</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-04-07 02:25:56">7c63ec4a4f1dd7009164b1d18110c7d0</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-07 09:25:56</sys_created_on>
+                        <sys_id>7463ec4a4f1dd7009164b1d18110c7d1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-07 09:25:56</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-04-07 02:25:56">7c63ec4a4f1dd7009164b1d18110c7d0</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-07 09:25:56</sys_created_on>
+                        <sys_id>7463ec4a4f1dd7009164b1d18110c7d2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-07 09:25:56</sys_updated_on>
+                        <value>TrainingProgressReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-04-07 02:25:56">7c63ec4a4f1dd7009164b1d18110c7d0</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-07 09:25:56</sys_created_on>
+                        <sys_id>7863ec4a4f1dd7009164b1d18110c7d1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-07 09:25:56</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2018-04-07 02:25:56">7c63ec4a4f1dd7009164b1d18110c7d0</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-07 09:25:56</sys_created_on>
+                        <sys_id>7c63ec4a4f1dd7009164b1d18110c7d1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-07 09:25:56</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-04-07 02:25:56">7c63ec4a4f1dd7009164b1d18110c7d0</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-04-07 09:25:56</sys_created_on>
+                        <sys_id>fc63ec4a4f1dd7009164b1d18110c7d0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-04-07 09:25:56</sys_updated_on>
+                        <value>9b02a80a4f1dd7009164b1d18110c7e2</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

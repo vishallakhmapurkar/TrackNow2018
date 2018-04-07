@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="TrackNow2018">2a6c5f314f99d7009164b1d18110c70f</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter table="x_snc_tracknow2018_employeetrainings">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint>Get logged in user trainings</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>GetMyActiveTrainings</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_tracknow2018_employeetrainings</name>
+        <order>80</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_snc_tracknow2018.user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-07 08:18:19</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>309398024f1dd7009164b1d18110c71b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>GetMyActiveTrainings</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TrackNow2018" source="x_snc_tracknow2018">6a6c57bd4f59d7009164b1d18110c7a2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TrackNow2018">6a6c57bd4f59d7009164b1d18110c7a2</sys_scope>
+        <sys_update_name>sys_app_module_309398024f1dd7009164b1d18110c71b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-07 08:33:15</sys_updated_on>
+        <timeline_page/>
+        <title>GetMyActiveTrainings</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

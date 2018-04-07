@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>pa_new_tab_2</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-07 09:21:26</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>7652644a4f1dd7009164b1d18110c716</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pa_new_tab_2</sys_name>
+        <sys_package display_value="TrackNow2018" source="x_snc_tracknow2018">6a6c57bd4f59d7009164b1d18110c7a2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TrackNow2018">6a6c57bd4f59d7009164b1d18110c7a2</sys_scope>
+        <sys_update_name>sys_ui_view_7652644a4f1dd7009164b1d18110c716</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-07 09:21:26</sys_updated_on>
+        <title>Pa_new_tab_2</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
