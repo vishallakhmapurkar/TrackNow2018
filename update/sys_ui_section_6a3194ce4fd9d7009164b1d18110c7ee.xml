@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="6a3194ce4fd9d7009164b1d18110c7ee" sys_domain="global" table="x_snc_tracknow2018_employeetrainings" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 08:14:09</sys_created_on>
+            <sys_id>51f254024f1dd7009164b1d18110c764</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_tracknow2018_employeetrainings" sys_domain="global" view="Default view">6a3194ce4fd9d7009164b1d18110c7ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 08:14:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 08:14:09</sys_created_on>
+            <sys_id>d1f254024f1dd7009164b1d18110c764</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_tracknow2018_employeetrainings" sys_domain="global" view="Default view">6a3194ce4fd9d7009164b1d18110c7ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 08:14:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 08:14:09</sys_created_on>
+            <sys_id>55f254024f1dd7009164b1d18110c764</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_tracknow2018_employeetrainings" sys_domain="global" view="Default view">6a3194ce4fd9d7009164b1d18110c7ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 08:14:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_complatedall</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 08:14:09</sys_created_on>
+            <sys_id>d5f254024f1dd7009164b1d18110c764</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_tracknow2018_employeetrainings" sys_domain="global" view="Default view">6a3194ce4fd9d7009164b1d18110c7ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 08:14:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 08:14:09</sys_created_on>
+            <sys_id>59f254024f1dd7009164b1d18110c764</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_tracknow2018_employeetrainings" sys_domain="global" view="Default view">6a3194ce4fd9d7009164b1d18110c7ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 08:14:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 08:14:09</sys_created_on>
+            <sys_id>d9f254024f1dd7009164b1d18110c764</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_tracknow2018_employeetrainings" sys_domain="global" view="Default view">6a3194ce4fd9d7009164b1d18110c7ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 08:14:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 08:14:09</sys_created_on>
+            <sys_id>5df254024f1dd7009164b1d18110c764</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_tracknow2018_employeetrainings" sys_domain="global" view="Default view">6a3194ce4fd9d7009164b1d18110c7ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 08:14:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_empstatus</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 08:14:09</sys_created_on>
+            <sys_id>ddf254024f1dd7009164b1d18110c764</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_tracknow2018_employeetrainings" sys_domain="global" view="Default view">6a3194ce4fd9d7009164b1d18110c7ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 08:14:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_tracknow2018_employeetrainings</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 08:06:36</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6a3194ce4fd9d7009164b1d18110c7ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_tracknow2018_employeetrainings</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="TrackNow2018" source="x_snc_tracknow2018">6a6c57bd4f59d7009164b1d18110c7a2</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="TrackNow2018">6a6c57bd4f59d7009164b1d18110c7a2</sys_scope>
+            <sys_update_name>sys_ui_section_6a3194ce4fd9d7009164b1d18110c7ee</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 08:06:36</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
