@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Training" max_length="40" name="x_snc_tracknow2018_traning" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" mandatory="true" max_length="1000" name="u_description" type="string"/>
+        <element default="true" label="Mandatory" max_length="40" name="u_mandatory" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" mandatory="true" max_length="500" name="u_name" type="string"/>
+        <element label="When needed" mandatory="true" max_length="40" name="u_whenneeded" type="glide_date"/>
+    </element>
+</database>
