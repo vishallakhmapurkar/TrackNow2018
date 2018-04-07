@@ -4,36 +4,36 @@
         <active>true</active>
         <breakdown_source/>
         <group display_value="TrackNowGroup">0e92684a4f1dd7009164b1d18110c78a</group>
-        <groups name="TrackNowAdmin">f9cc17714f99d7009164b1d18110c7c5</groups>
+        <groups/>
         <is_breakdown>false</is_breakdown>
         <managed_breakdown/>
         <managed_publisher/>
-        <name>TrackNowAdminDashboard</name>
+        <name>TrackUserDashboard</name>
         <no_tabs>false</no_tabs>
         <order/>
         <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
         <restrict_to_roles/>
         <role_override>true</role_override>
-        <roles/>
+        <roles>x_snc_tracknow2018.user</roles>
         <should_migrate_permissions>true</should_migrate_permissions>
         <sys_class_name>pa_dashboards</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-04-07 09:24:04</sys_created_on>
+        <sys_created_on>2018-04-07 10:05:08</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>a572284a4f1dd7009164b1d18110c735</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>TrackNowAdminDashboard</sys_name>
+        <sys_id>b4fba88e4f1dd7009164b1d18110c75e</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>TrackUserDashboard</sys_name>
         <sys_overrides/>
         <sys_package display_value="TrackNow2018" source="x_snc_tracknow2018">6a6c57bd4f59d7009164b1d18110c7a2</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="TrackNow2018">6a6c57bd4f59d7009164b1d18110c7a2</sys_scope>
-        <sys_update_name>pa_dashboards_a572284a4f1dd7009164b1d18110c735</sys_update_name>
+        <sys_update_name>pa_dashboards_b4fba88e4f1dd7009164b1d18110c75e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-04-07 10:03:10</sys_updated_on>
-        <users>6816f79cc0a8016401c5a33be04be441</users>
-        <visible_to>3</visible_to>
+        <sys_updated_on>2018-04-07 10:16:23</sys_updated_on>
+        <users>5137153cc611227c000bbd1bd8cd2005</users>
+        <visible_to>2</visible_to>
     </pa_dashboards>
 </record_update>
